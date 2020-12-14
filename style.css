@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 40px;
+}
+
+.link a {
+    color: aquamarine;
+    text-align: center;
+    font-size: 16px;
+}
+
+.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.c {
+    text-align: right;
+    color: gray;
+}
+
+.gray {
+    color: gray;
+    font-size: 21px;
+}
+
+.picture {
+    margin-top: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
